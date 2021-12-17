@@ -1,4 +1,4 @@
-# CA2_20211118
+# Final_project_20211118
 
 Skin Cancer Classifier
 
