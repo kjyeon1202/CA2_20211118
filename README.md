@@ -12,7 +12,6 @@ HAM10000 image examples:
 skin_cancer_classifier.ipynb consists of 3 parts. Data processing, models training, results visualizing.
 All 6 models are in this file and there is no command to run only the model you want. Therefore, you need to find the cell where the model is defined to run the desired model.
 
-bestmodel_*.h5 files are the model saved when the validation accuracy is the highest.
 
 # Results
 ![image](https://user-images.githubusercontent.com/44110710/146601114-651513e4-388d-4e9e-ae46-f4ba0f8e245d.png)
