@@ -16,3 +16,6 @@ bestmodel*.h5 files are the model saved when the validation accuracy is the high
 
 # Results
 ![image](https://user-images.githubusercontent.com/44110710/146601114-651513e4-388d-4e9e-ae46-f4ba0f8e245d.png)
+![image](https://user-images.githubusercontent.com/44110710/146603704-28bd84af-cbcc-4ffe-a8e4-a2917e6190d3.png)
+![image](https://user-images.githubusercontent.com/44110710/146603728-643c592e-9843-4517-8dab-37ae04e4fb7a.png)
+![image](https://user-images.githubusercontent.com/44110710/146603720-baaa6d40-aa6c-4d66-afd6-e56e593d183c.png)
