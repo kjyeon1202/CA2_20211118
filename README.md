@@ -9,8 +9,8 @@ HAM10000 image examples:
 
 
 # Code Description
-skin_cancer_classifier.ipynb consists of 3 parts. Data processing, models training, results visualizing.
-All 6 models are in this file and there is no command to run only the model you want. Therefore, you need to find the cell where the model is defined to run the desired model.
+
+The 'skin_cancer_classifier.ipynb' file is divided into three main sections: data processing, model training, and results visualization. All six models are included in this file, and there isn't a specific command to run only the desired model. To execute a particular model, find the cell where that specific model is defined and run it.
 
 
 # Results
